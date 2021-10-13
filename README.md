@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faizanarif9
-- 👀 I’m interested in .Web Development
+- 👀 FullStack Developer in RealcoderZ
 - 🌱 I’m currently learning ..React.js
 - 📫 How to reach me ...jus ping me up , faizanarif99@outlook.com
 
